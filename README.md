@@ -6,7 +6,11 @@ Created using Express and Backend - MongoDB with Atlas.
 
 Deployed on Heroku.
 
-Example:
-This is the URL to the website.
+This is the URL to the website:
 (https://glacial-mesa-18074.herokuapp.com/)
+
 To add new list simply type name of your list after the URL. 
+
+Example https://glacial-mesa-18074.herokuapp.com/Work.
+
+This will create a new Work List.
